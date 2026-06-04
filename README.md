@@ -1,28 +1,28 @@
 # Hi, I'm Jwala 👋
 
-🛡️ SOC Analyst | Blue Team | Cyber Defense enthusiast based in Hyderabad, India
+🛡️ SOC Analyst | Blue Team | Cyber Defense | Hyderabad, India
 
 ---
 
 ## About Me
 
 - 🎓 B.Tech Cyber Security @ CMR Engineering College (2022–2026)
-- 🔍 Passionate about threat detection, log analysis, and incident response
-- 🧪 Interned at IIT Mandi CAIR Lab — researched Quantum-Inspired Cybersecurity for UAV swarms
-- 🏆 Active CTF participant on TryHackMe & HackTheBox
-- 📫 Reach me: jwaladevalla@gmail.com
+- 🔍 Focused on threat detection, log analysis, and incident response
+- 🧪 Research Intern @ IIT Mandi CAIR Lab — Quantum-Inspired Cybersecurity for UAV swarms
+- 🏆 Active CTF participant
+- 📫 jwaladevalla@gmail.com | [LinkedIn](https://www.linkedin.com/in/devalla-jwala-390040301/)
 
 ---
 
 ## 🛠️ Tools & Skills
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**SIEM & Monitoring:** Splunk · Wazuh · Suricata
+
+**Network Analysis:** Wireshark · Nmap · Tcpdump
+
+**Offensive Tools:** Burp Suite · Metasploit · OWASP ZAP · SQLMap
+
+**Languages & OS:** Python · Linux · Windows
 
 **Frameworks:** MITRE ATT&CK · OWASP Top 10 · Cyber Kill Chain · NIST CSF
 
@@ -32,17 +32,18 @@
 
 | Project | Description |
 |---|---|
+| [Wazuh + Suricata IDS](https://github.com/devalla-jwala/Suricata-IDS-Integration-with-Wazuh-SIEM) | Integrated Suricata NIDS with Wazuh SIEM for real-time network threat detection |
 | [Splunk Log Analysis](https://github.com/devalla-jwala/splunk-projects) | SIEM-based analysis of DHCP, DNS, SMTP, SSH & tunnel logs for threat detection |
-| [Wazuh + Suricata IDS](https://github.com/devalla-jwala/Suricata-IDS-Integration-with-Wazuh-SIEM) | Integrated Suricata NIDS with Wazuh SIEM for real-time network threat detection and centralized alerting |) | Integrated IDS with SIEM for centralized security monitoring |
-| [File Integrity Monitor](https://github.com/devalla-jwala) | Python tool using SHA-256 hashing to detect unauthorized file changes |
+| [File Integrity Monitor](https://github.com/devalla-jwala) | Python tool using SHA-256 hashing to detect unauthorized file modifications |
 
 ---
 
+## 📜 Certifications
 
-## 📊 GitHub Stats
-
-![Jwala's GitHub stats](https://github-readme-stats.vercel.app/api?username=devalla-jwala&show_icons=true&theme=dark&hide_border=true)
+- Ethical Hacking — Ihack Academy
+- Linux Training — IIT Bombay
+- Tata Cybersecurity Analyst Simulation — Forage
 
 ---
 
-⭐ *"Security is not a product, but a process."*
+*"Security is not a product, but a process." — Bruce Schneier*
