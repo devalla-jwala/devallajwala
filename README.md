@@ -33,7 +33,7 @@
 | Project | Description |
 |---|---|
 | [Splunk Log Analysis](https://github.com/devalla-jwala/splunk-projects) | SIEM-based analysis of DHCP, DNS, SMTP, SSH & tunnel logs for threat detection |
-| [Wazuh + Suricata IDS](https://github.com/devalla-jwala) | Integrated IDS with SIEM for centralized security monitoring |
+| [Wazuh + Suricata IDS](https://github.com/devalla-jwala/Suricata-IDS-Integration-with-Wazuh-SIEM) | Integrated Suricata NIDS with Wazuh SIEM for real-time network threat detection and centralized alerting |) | Integrated IDS with SIEM for centralized security monitoring |
 | [File Integrity Monitor](https://github.com/devalla-jwala) | Python tool using SHA-256 hashing to detect unauthorized file changes |
 
 ---
